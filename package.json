@@ -1,0 +1,25 @@
+{
+  "name": "premiermovie-filmboard",
+  "version": "1.0.0",
+  "description": "PremierMovie: Pro-Environment without Node.js and code of Dev-Env",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "server-static": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filmboard/PremierMovie.git"
+  },
+  "author": "king",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filmboard/PremierMovie/issues"
+  },
+  "homepage": "https://github.com/filmboard/PremierMovie#readme"
+}
